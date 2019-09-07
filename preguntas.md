@@ -1,3 +1,4 @@
+### Preguntas
 * ¿Qué relación existe entre el precio y la cantidad de metros cuadrados de la propiedad?
 * ¿Cuál es el precio promedio por ciudad?
 * ¿Cuál es el precio promedio por provincia?
