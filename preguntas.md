@@ -1,7 +1,7 @@
 ### Preguntas
 * ¿Qué relación existe entre el precio y la cantidad de metros cuadrados de la propiedad? | Lucas
 * ¿Cuál es el precio promedio por ciudad? | Lucas
-* ¿Cuál es el precio promedio por provincia?
+* ¿Cuál es el precio promedio por provincia? Alan
 * ¿Cuál es la antiguedad según la ciudad?
 * ¿Cuál es la antiguedad según la provincia?
 * ¿Existe relación entre el precio, los metros cuadrados y la cantidad de habitaciones de un departamento? | Lucas
