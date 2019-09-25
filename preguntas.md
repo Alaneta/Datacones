@@ -9,10 +9,17 @@
 * ¿Cuál es la antiguedad según la ciudad?
 * ¿Cuál es la antiguedad según la provincia?
 * ¿Existe relación entre el precio, los metros cuadrados y la cantidad de habitaciones de un departamento? | Lucas
-* ¿Existe relación entre el precio de una propiedad y la antiguedad de la propiedad?
+* ¿Existe relación entre el precio de una propiedad y la antiguedad de la propiedad? | Manu
 * ¿Cómo se distribuyen los gimnasios de las propiedades según el tipo de propiedad? Alan
-* ¿Cómo se distribuyen los espacios de usosmultiples de las propiedades según el tipo de propiedad?
-* ¿Cómo se distribuyen las piscinas de usosmultiples de las propiedades según el tipo de propiedad?
+* ¿Cómo se distribuyen los espacios de usosmultiples de las propiedades según el tipo de propiedad? | Manu
+* ¿Cómo se distribuyen las piscinas de usosmultiples de las propiedades según el tipo de propiedad? | Manu
 * ¿Cuál es el promedio de metros cuadrados cubiertos y descubiertos según el tipo de propiedad?
 * ¿Cómo se distribuyen las publicaciones de deptos según los metros totales? | Lucas
-*
+* Correlacion metros cubiertos - precio por tipo de propiedad | Manu
+* Correlacion metros totales - precio por tipo de propiedad | Manu
+* Correlacion precio - antiguedad teniendo en cuenta provincia | Manu
+* Correlacion precio - antiguedad teniendo en cuenta metros cubiertos | Manu
+* Precio promedio por antiguedad (ignorando metros, provincia, etc) | Manu
+* Correlacion entre precio - garage | Manu
+* Correlacion entre precio - garage por provincia| Manu
+* Correlacion entre precio - garage por ciudad | Manu
