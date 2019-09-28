@@ -6,7 +6,7 @@
 * ¿Cual es la cantidad de propiedades por tipo? | **Alan**
 * ¿Cual es la cantidad de propiedades por Provincia? | **Alan**
 * ¿Como afecta que una propiedad tenga gimnasio, piscina, escuela cercana, centro comercial cercano en el precio? | **Alan**
-* ¿Cuál es la antiguedad según la ciudad?
+* ¿Cuál es la antiguedad promedio según la ciudad? | **Lucas**
 * ¿Cuál es la antiguedad según la provincia? | **Manu**
 * ¿Existe relación entre el precio, los metros cuadrados y la cantidad de habitaciones de un departamento? | **Lucas**
 * ¿Existe relación entre el precio de una propiedad y la antiguedad de la propiedad? | **Manu**
