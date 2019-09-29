@@ -5,13 +5,17 @@
 * ¿Cual es el precio pronedio por tipo de propiedad? | **Alan**
 * ¿Cual es la cantidad de propiedades por tipo? | **Alan**
 * ¿Cual es la cantidad de propiedades por Provincia? | **Alan**
-* ¿Como afecta que una propiedad tenga gimnasio, piscina, escuela cercana, centro comercial cercano en el precio? | **Alan**
+* ¿Como afecta que una propiedad tenga gimnasio en el precio? | **Alan**
+* ¿Como afecta que una propiedad tenga centros comerciales cercanos en el precio? | **Alan**
 * ¿Cuál es la antiguedad promedio según la ciudad? | **Lucas**
 * ¿Cómo se distribuyen las cantidades de publicaciones según la antiguedad en distintas ciudades? | **Lucas**
 * ¿Cuál es la antiguedad según la provincia? | **Manu**
 * ¿Existe relación entre el precio, los metros cuadrados y la cantidad de habitaciones de un departamento? | **Lucas**
 * ¿Existe relación entre el precio de una propiedad y la antiguedad de la propiedad? | **Manu**
-* ¿Cómo se distribuyen los gimnasios de las propiedades según el tipo de propiedad? | **Alan**
+* ¿Cómo se distribuyen las propiedades con gimnasio según el tipo de propiedad? | **Alan**
+* ¿Cómo se distribuyen llas propiedades con gimnasio según la provincia? | **Alan**
+* ¿Cómo se distribuyen las propiedades con centros comerciales cercanos según el tipo de propiedad? | **Alan**
+* ¿Cómo se distribuyen llas propiedades ccon centros comerciales cercanos según la provincia? | **Alan**
 * ¿Cómo se distribuyen los espacios de usosmultiples de las propiedades según el tipo de propiedad?  | **Manu**
 * ¿Cómo se distribuyen las piscinas de usosmultiples de las propiedades según el tipo de propiedad? | **Manu**
 * ¿Cuál es el promedio de metros cuadrados cubiertos y descubiertos según el tipo de propiedad? | **Manu**
