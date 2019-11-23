@@ -1,5 +1,7 @@
 data
 Lucas/.ipynb_checkpoints/
 Lucas/metaDataNavent.ipynb
-train.csv
-test.csv
+tp2/test.csv
+tp2/test_set.csv
+tp2/train.csv
+tp2/train_set.csv
