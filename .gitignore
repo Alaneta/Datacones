@@ -5,3 +5,12 @@ tp2/test.csv
 tp2/test_set.csv
 tp2/train.csv
 tp2/train_set.csv
+tp2/.ipynb_checkpoints/
+tp2/X_test
+tp2/y_test
+tp2/y_train
+tp2/X_train
+tp2/subir_a_kaggle
+tp2/test_set_xgb.csv
+tp2/train_set_xgb.csv
+tp2/xgb_*
