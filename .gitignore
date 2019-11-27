@@ -14,3 +14,4 @@ tp2/subir_a_kaggle
 tp2/test_set_xgb.csv
 tp2/train_set_xgb.csv
 tp2/xgb_*
+tp2/XGB_ens_train
