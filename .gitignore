@@ -16,3 +16,4 @@ tp2/train_set_xgb.csv
 tp2/xgb_*
 tp2/XGB_ens_train
 tp2/RF_train
+tp1/*
